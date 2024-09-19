@@ -8,8 +8,11 @@ Let’s dive into the world of problem-solving and explore the core concepts ste
 Arrays are the building blocks of DSA. In this section, you’ll find problems and solutions that focus on manipulating arrays in various ways, including sorting, searching, and optimization techniques. Learn how to deal with:
 
 -Finding the largest/smallest elements
+
 -Sorting algorithms
+
 -Sliding window problems
+
 -Kadane’s Algorithm (Maximum Subarray Sum)
 
 2.2D Arrays
