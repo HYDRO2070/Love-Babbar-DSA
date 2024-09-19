@@ -1,2 +1,3 @@
-
-    // insertlist(arr[0],5);
+;
+    Print2dlist(ans);
+    cout<<"------"<<endl;
