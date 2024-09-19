@@ -1,0 +1,1 @@
+        if(arr[i] - last >= mi
