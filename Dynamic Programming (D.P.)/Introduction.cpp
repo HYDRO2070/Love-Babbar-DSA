@@ -26,6 +26,7 @@ using namespace std;
 // int fabonacci(int n,int *dp){
 //     // here the recursion is call for every element. and it consume all the space. but the main point is it call the function which has been call one  time before. it is not using the result my before.
 //     if(n == 1 || n == 0) return n;
+//     if(dp[n] != INT_MAX) return dp[n];
 //     dp[n] =  fabonacci(n-1,dp) + fabonacci(n-2,dp);
 //     return dp[n];
 // }
@@ -41,7 +42,7 @@ int main(){
     // cout<<fabonacci(n)<<endl;
 
     // using dp top-down function call
-    // int dp[n+1];
+    // int dp[n+1] ={INT_MAX};
     // cout<<fabonacci(n,dp)<<endl;
 
     // complexity here time - O(N) and space - O(N)
